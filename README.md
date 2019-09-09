@@ -1,2 +1,0 @@
-# starter
-new project
